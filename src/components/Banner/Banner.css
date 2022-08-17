@@ -1,0 +1,14 @@
+.banner{
+    overflow: hidden
+}
+.bg-vid{
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-position: center;
+    scale: 1.19;
+    width: 100%;
+    padding: 0 0 0 20%;
+    margin: 140px 0 0 0;
+    z-index: -1;
+    position: relative;
+}

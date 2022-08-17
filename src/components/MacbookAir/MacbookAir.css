@@ -1,0 +1,52 @@
+.macbook-air{
+    padding: 28px 0;
+    height: 500px;
+    text-align: center;
+    background-color: transparent;
+}
+.line1{
+    font-size: 32px;
+    font-weight: 600;
+    padding: 12px 0;
+}
+.line2{
+    margin: 12px 0;
+    font-size: 96px;
+    font-weight: 700;
+    line-height: 84px;
+    height: 84px;
+    background: -webkit-linear-gradient(#eee, #333);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.line3{
+    padding: 12px 0;
+    font-size: 32px;
+    font-weight: 500;
+    color: rgb(161, 161, 166);
+    width: clamp(64%, 669px, 98%);
+    margin: auto;
+}
+.line4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 0;
+    font-size: 28px;
+    font-weight: 500;
+    color: rgb(161, 161, 166);
+}
+.line4 img{
+    height: 96px;
+}
+.line5{
+    font-size: 28px;
+    font-weight: 300;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+.line5 .item{ 
+    padding: 0 1%;
+}
