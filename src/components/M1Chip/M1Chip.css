@@ -1,0 +1,27 @@
+.m1-chip{
+    margin: 300px 0 0 0;
+}
+.m1-chip .line1{
+    width: clamp(69%, 669px, 98%);
+    margin: 0 auto;
+    font-size: 80px;
+    font-weight: 600;
+    color: #a1a1a5;
+}
+.m1-chip .line2{
+    width: clamp(69%, 669px, 98%);
+    margin: 0 auto;
+    font-size: 80px;
+    font-weight: 600;
+}
+.m1-chip .line3{
+    width: clamp(69%, 669px, 98%);
+    margin: 0 auto;
+    color: #a1a1a5;
+    font-size: 28px;
+    font-weight: 500;
+    padding: 10px 22% 0 0;
+}
+.m1-chip .m1-chip-img{
+    width: 100%;
+}
