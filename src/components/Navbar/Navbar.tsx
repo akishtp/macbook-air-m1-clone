@@ -29,6 +29,7 @@ const Navbar:React.FC = () => {
           <ul className="bottom-side-navbar-right">
             <li className="bottom-side-navbar-right-item">Overview</li>
             <li className="bottom-side-navbar-right-item">Why Mac</li>
+            <li className="bottom-side-navbar-right-item">Compare</li>
             <li className="bottom-side-navbar-right-item">Tech Specs</li>
             <li className="bottom-side-navbar-right-item">
               <button className="buy-button" type="button">Buy</button>

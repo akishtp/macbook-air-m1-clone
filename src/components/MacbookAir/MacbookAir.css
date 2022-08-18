@@ -1,34 +1,34 @@
 .macbook-air{
-    padding: 28px 0;
+    margin: 28px 0;
     height: 500px;
     text-align: center;
     background-color: transparent;
 }
-.line1{
-    font-size: 32px;
+.macbook-air .line1{
+    font-size: 34px;
     font-weight: 600;
     padding: 12px 0;
 }
-.line2{
+.macbook-air .line2{
     margin: 12px 0;
     font-size: 96px;
     font-weight: 700;
     line-height: 84px;
     height: 84px;
-    background: -webkit-linear-gradient(#eee, #333);
+    background: radial-gradient(rgb(239, 241, 255), rgb(0, 0, 0));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.line3{
+.macbook-air .line3{
     padding: 12px 0;
-    font-size: 32px;
+    font-size: 34px;
     font-weight: 500;
     color: rgb(161, 161, 166);
-    width: clamp(64%, 669px, 98%);
+    width: clamp(69%, 669px, 98%);
     margin: auto;
 }
-.line4{
+.macbook-air .line4{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -37,16 +37,16 @@
     font-weight: 500;
     color: rgb(161, 161, 166);
 }
-.line4 img{
+.macbook-air .line4 img{
     height: 96px;
 }
-.line5{
+.macbook-air .line5{
     font-size: 28px;
     font-weight: 300;
     display: flex;
     margin: auto;
     justify-content: center;
 }
-.line5 .item{ 
+.macbook-air .line5 .item{ 
     padding: 0 1%;
 }
