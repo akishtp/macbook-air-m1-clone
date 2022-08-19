@@ -8,6 +8,7 @@ import MacbookAir from './components/MacbookAir/MacbookAir';
 import Navbar from './components/Navbar/Navbar';
 
 import './App.css';
+import GPU from './components/GPU/GPU';
 
 const App:React.FC = () => (
   <BrowserRouter>
@@ -17,6 +18,7 @@ const App:React.FC = () => (
       <MacbookAir />
       <M1Chip />
       <CPU />
+      <GPU />
     </div>
   </BrowserRouter>
 );
